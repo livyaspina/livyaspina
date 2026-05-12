@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/SEU_ID?v=4" 
+<img src="https://avatars.githubusercontent.com/u/https://i.pinimg.com/736x/0d/a3/92/0da392f62ccb0db21b4889919dbb675d.jpg?v=4" 
 width="120px" 
 style="border-radius: 50%; border: 3px solid #c084fc;" />
 
