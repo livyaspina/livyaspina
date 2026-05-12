@@ -5,4 +5,8 @@
 -->
 ⁕⁛⁙•⁕•⁂⁎»«◁
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livyaspina&show_icons=true&theme=jolly)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livyaspina&layout=compact&theme=jolly)
