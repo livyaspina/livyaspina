@@ -2,13 +2,12 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/https://i.pinimg.com/736x/0d/a3/92/0da392f62ccb0db21b4889919dbb675d.jpg?v=4" 
-width="120px" 
-style="border-radius: 50%; border: 3px solid #c084fc;" />
-
+<img src="https://i.pinimg.com/736x/0d/a3/92/0da392f62ccb0db21b4889919dbb675d.jpg" 
+width="90px" 
+style="border-radius:50%; border:4px solid #a855f7;">
 
 <p>
-💻 Estudante de TI • Python • Desenvolvimento Web
+💻 Python • Web Dev • Technology
 </p>
 
 </div>
