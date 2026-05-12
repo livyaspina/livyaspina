@@ -1,13 +1,11 @@
-## Hey! I´m Livya⭐
+## ⭐Hey! I´m Livya⭐
 
-- 🌱 I’m currently learning cybersecurity
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/SEU_ID?v=4" 
 width="120px" 
 style="border-radius: 50%; border: 3px solid #c084fc;" />
 
-<h1>✨ Livya Spina ✨</h1>
 
 <p>
 💻 Estudante de TI • Python • Desenvolvimento Web
@@ -38,7 +36,7 @@ style="border-radius: 50%; border: 3px solid #c084fc;" />
 ## 🌸 Sobre mim
 
 ```css
-📚 Aprendendo programação e desenvolvimento web
+📚 Aprendendo programação e desenvolvimento web, cybersecurity
 🚀 Em busca da primeira oportunidade em TI
 💡 Criando projetos para evoluir constantemente
 ✨ Transformando ideias em código
