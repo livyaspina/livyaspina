@@ -16,9 +16,9 @@ style="border-radius:50%; border:4px solid #a855f7;">
 
 <div align="center">
 
-<a href="https://www.instagram.com/livyaspina">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+# <a href="https://www.instagram.com/livyaspina">
+ # <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+# </a>
 
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/livya-spina-28l10s2002g">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
