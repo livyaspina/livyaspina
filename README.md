@@ -10,12 +10,6 @@ style="border-radius:50%; border:4px solid #a855f7;">
 💻 Python • Web Dev • Technology
 </p>
 
-</div>
-
----
-
-<div align="center">
-
 
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/livya-spina-28l10s2002g">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
