@@ -17,16 +17,6 @@ style="border-radius:50%; border:4px solid #a855f7;">
 
 </div>
 
-## 💻 Linguagens Mais Utilizadas
-
-<div align="center">
-
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=livyaspina&layout=compact&langs_count=8&theme=jolly&hide_border=true"
-/>
-
-</div>
 
 
 ## 🌸 Sobre mim
