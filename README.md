@@ -41,7 +41,7 @@ style="border-radius:50%; border:4px solid #a855f7;">
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   
-  />
+  
 
   <img
     alt="github contribution grid snake animation"
